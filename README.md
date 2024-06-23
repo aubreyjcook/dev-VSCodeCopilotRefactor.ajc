@@ -1,4 +1,4 @@
-# dev-VSCodeCopilotRefactor.ajc
+# dev_VSCodeCopilotRefactor.ajc
 This repository is for testing the concept of automating code refactoring using GitHub Copilot.
 
 A professional tool for automating code refactoring using GitHub Copilot within VS Code.
@@ -21,7 +21,7 @@ Run the refactoring script via VS Code tasks or from the command line.
 
 ## Author
 
-This project was created and is maintained by Aubrey Jay Cook. The initial development and testing were conducted in a separate repository [dev-CopilotRefactorAutomation.ajc](https://github.com/aubreyjcook/dev-CopilotRefactorAutomation.ajc).
+This project was created and is maintained by Aubrey Jay Cook. The initial development and testing were conducted in a separate repository [dev_CopilotRefactorAutomation.ajc](https://github.com/aubreyjcook/dev_CopilotRefactorAutomation.ajc).
 
 ## License
 
