@@ -21,7 +21,7 @@ Run the refactoring script via VS Code tasks or from the command line.
 
 ## Author
 
-This project was created and is maintained by Aubrey Jay Cook. The initial development and testing were conducted in a separate repository [dev_VSCodeCopilotRefactorAutomation.ajc](https://github.com/aubreyjcook/dev_VSCodeCopilotRefactorAutomation.ajc).
+This project was created and is maintained by Aubrey Jay Cook. The initial development and testing were conducted in a separate repository [dev_VSCodeCopilotRefactor.ajc](https://github.com/aubreyjcook/dev_VSCodeCopilotRefactor.ajc).
 
 ## License
 
